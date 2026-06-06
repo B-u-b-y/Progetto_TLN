@@ -14,7 +14,7 @@ Modulo `frame.py`
 * **identificatore principale**: jedi, sith, permette un accesso immediato alle "informazioni" del personaggio selezionato tramite:
     * `frames['jedi']` / `frames['sith']`;
         * `character_name_it` / `character_name_en`: nome del personaggio interrogrativo;
-        * `tone` #TODO
+        * `tone`: rappresenta il modo in cui il bot presenta le frasi di verdetto finale; 
         * `intro_it` / `intro_en`: messaggio d'introduzione con il quale il DS si presenta;
         * `test_end_it` / `test_end_en`: messaggio generico che viene mostrato a fine test;
         * `final_title_it` / `final_title_en`: messaggio generico che viene mostrato a fine test;

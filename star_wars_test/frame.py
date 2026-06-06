@@ -2,7 +2,7 @@ frames = {
     "jedi": {
         "character_name_it": "Obi-Wan Kenobi",
         "character_name_en": "Obi-Wan Kenobi",
-        "tone": "calm",     # TODO
+        "tone": "calm",    
         "intro_it": "La Forza richiede disciplina. Rispondi con calma e chiarezza.",
         "intro_en": "The Force requires discipline. Answer with calm and clarity.",
         "test_end_it": "Il test e terminato.",
